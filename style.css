@@ -1,12 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Nova+Flat&display=swap');
 
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: #ff5959;
+  --navColor3: #facf5a;
+  --navColor4: #49beb7;
+  --navColor5: #085f63;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: Nova Flat, sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
